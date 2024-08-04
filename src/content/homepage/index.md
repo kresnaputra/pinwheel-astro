@@ -1,7 +1,7 @@
 ---
 banner:
-  title: "Scale design & dev operations with Avocode Enterprise"
-  content: "A fully integrated suite of authentication & authoriz products, Stytch’s platform removes the headache of."
+  title: "Kehadiran Praktis, Efisien, Akurat dengan Hadir!"
+  content: "Hadir diciptakan dengan tujuan untuk menyederhanakan proses manajemen kehadiran dan operasi perusahaan lainnya."
   image: /images/banner-img.png
   button:
     label: Download The Theme
@@ -10,71 +10,59 @@ banner:
 
 ##key features
 key_features:
-  title: "The Highlighting Part Of Our Solution"
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas Werat viverra id et aliquet. vulputate egestas sollicitudin.
+  title: "Beberapa Fitur Yang Tersedia Didalam Aplikasi Hadir!"
+  description: Mengelola kehadiran karyawan kini lebih mudah dengan Hadir. Cukup gunakan smartphone Anda untuk klik hadir dan nikmati proses manajemen yang efisien dan akurat setiap hari.
   feature_list:
     - icon: "map"  #icon package react-feather-icon [https://feathericons.com/]
-      title: Live Caption
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      title: Pelacakan Kehadiran Real-Time
+      content: Lihat dan kelola kehadiran karyawan secara langsung dengan data yang diperbarui setiap saat.
     - icon: "lock"  #icon package react-feather-icon [https://feathericons.com/]
-      title: Smart Reply
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    - icon: "link"  #icon package react-feather-icon [https://feathericons.com/]
-      title: Sound Amplifier
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      title: Laporan dan Analisis
+      content: Dapatkan laporan detail dan analisis kehadiran untuk memahami tren dan meningkatkan kebijakan perusahaan Anda.
     - icon: "bell"  #icon package react-feather-icon [https://feathericons.com/]
-      title: Sound Amplifier
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    - icon: "monitor"  #icon package react-feather-icon [https://feathericons.com/]
-      title: Smart Reply
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    - icon: "map"  #icon package react-feather-icon [https://feathericons.com/]
-      title: Live Caption
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      title: Notifikasi
+      content: Terima pemberitahuan tentang kehadiran atau ketidakhadiran karyawan secara otomatis melalui aplikasi.
     - icon: "link"  #icon package react-feather-icon [https://feathericons.com/]
-      title: Sound Amplifier
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    - icon: "bell"  #icon package react-feather-icon [https://feathericons.com/]
-      title: Sound Amplifier
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    - icon: "map"  #icon package react-feather-icon [https://feathericons.com/]
-      title: Smart Reply
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    - icon: "monitor"  #icon package react-feather-icon [https://feathericons.com/]
-      title: Live Caption
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      title: Kemudahan Pengelolaan
+      content: Pengelolaan Terpusat, Data absensi dapat diakses dan dikelola secara terpusat dari satu sistem.
 
 #service
 service:
   homepage_tab:
-    title: Prevent failure from to impacting your reputation
-    description: Our platform helps you build secure onboarding authentication experiences that retain and engage your users. We build the infrastructure, you can.
+    title: Fitur yang disediakan dalam panel HR 
+    description: Panel Admin Web adalah alat manajemen HR yang komprehensif, dirancang untuk menyederhanakan tugas administratif terkait absensi, manajemen cuti, pemrosesan penggajian, dan manajemen karyawan.
     tab_list:
-        - title: Habit building essential choose habit
-          icon: "lock"  #icon package react-feather-icon [https://feathericons.com/]
+        - title: Manajemen Cabang dan Posisi Pekerjaan
+          icon: "map"  #icon package react-feather-icon [https://feathericons.com/]
           image: "/images/sells-by-country.png"
-        - title: Get an overview of Habit Calendars.
-          icon: "clock"  #icon package react-feather-icon [https://feathericons.com/]
+        - title: Manajemen Karyawan
+          icon: "file"  #icon package react-feather-icon [https://feathericons.com/]
           image: "/images/collaboration.png"
-        - title: Start building with Habitify platform
+        - title: Persetujuan Cuti
+          icon: "triangle"  #icon package react-feather-icon [https://feathericons.com/]
+          image: "/images/sells-by-country.png"
+        - title: Manajemen Pengumuman
           icon: "bell"  #icon package react-feather-icon [https://feathericons.com/]
+          image: "/images/sells-by-country.png"
+        - title: Pemrosesan Penggajian
+          icon: "book"  #icon package react-feather-icon [https://feathericons.com/]
           image: "/images/sells-by-country.png"
 
   our_service:
-    - title: Accept payments any country in this whole universe
+    - title: Manfaat  
       desctiption: Donec sollicitudin molestie malesda. Donec sollitudin molestie malesuada. Mauris pellentesque nec, egestas non nisi. Cras ultricies ligula sed
       image: "/images/collaboration.png"
       list:
-        - Supporting more than 119 country world
-        - Open transaction with more than currencies
-        - Customer Service with 79 languages
-    - title: Accountability that works for you
-      description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas Werat viverra id et aliquet. vulputate egestas sollicitudin.
+        - Menghandle beberapa lokasi kerja sekaligus
+        - Fleksibel dan dapat disesuaikan
+        - Sistem dengan pengelolaan terpusat
+    - title: Tunggu apa lagi?
+      description: Pesan sekarang dan rasakan manfaatnya. Dengan Hadir! kelola perushaan anda dengan sistem yang terjamin serta aman digunakan.
       video:
         thumbnail: "/images/intro-thumbnail.png"
         video_id: "g3-VxLQO7do"
       button:
-        label: Know About Us
+        label: Tentang Kami
         link: "#"
         enable: true
 

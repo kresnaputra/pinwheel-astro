@@ -1,6 +1,6 @@
 ---
 title: "About"
-page_title: "About our company"
+page_title: "Tentang Kami"
 buttons:
   - label: Download The Theme
     link: "https://themefisher.com/astro-themes/pinwheel-astro"
@@ -39,48 +39,32 @@ gallery:
 
 ## our works
 features:
-  title: The six core work <br /> drive everything do
+  title: Tiga alasan memilih kami
   button:
     label: Download The Theme
     link: "https://themefisher.com/astro-themes/pinwheel-astro"
     enable: true
   features_list:
-    - title: Accessibility
-      content: Nulla porttitor acmsan tinci dunt. posuere cubilia Cudfrae Donec velit neque, autor sit amet aliuam vel
-    - title: Empowerement
-      content: Nulla porttitor acmsan tinci dunt. posuere cubilia Cudfrae Donec velit neque, autor sit amet aliuam vel
-    - title: Excellence
-      content: Nulla porttitor acmsan tinci dunt. posuere cubilia Cudfrae Donec velit neque, autor sit amet aliuam vel
-    - title: Innovation
-      content: Nulla porttitor acmsan tinci dunt. posuere cubilia Cudfrae Donec velit neque, autor sit amet aliuam vel
-    - title: Innovation
-      content: Nulla porttitor acmsan tinci dunt. posuere cubilia Cudfrae Donec velit neque, autor sit amet aliuam vel
-    - title: Innovation
-      content: Nulla porttitor acmsan tinci dunt. posuere cubilia Cudfrae Donec velit neque, autor sit amet aliuam vel
-    
+    - title: Aksesibilitas
+      content: Kami memastikan aplikasi yang kami kembangkan dapat diakses dengan mudah oleh semua pengguna, sehingga memaksimalkan pengalaman dan keterjangkauan bagi berbagai kalangan.
+    - title: Pemberdayaan
+      content: Kami berkomitmen untuk memberdayakan klien kami dengan solusi teknologi yang inovatif, memungkinkan mereka untuk mencapai tujuan bisnis mereka dengan lebih efektif dan efisien.
+    - title: Keungulan
+      content: Kami mengutamakan keunggulan dalam setiap proyek yang kami kerjakan, memastikan kualitas terbaik dan hasil yang memenuhi atau bahkan melampaui harapan klien kami.    
 
 ## members
 members:
-  title: This is who we are
-  description: Donec sollicitudin molestie malesda. Donec sollitudin mol estie ultricies ligula sed magna dictum
+  title: Organisasi dan manajemen
+  description: 
   member_list:
-    - name: Eleanor Pena
-      field: Co-founder & COO
+    - name: Kresna Putra
+      field: CEO / Full-Stack Developer
       image: "/images/users/user-1.png"
-    - name: Bukiakta Bansalo
-      field: Product Manager
+    - name: Pradipta Wistika
+      field: CTO / Full-Stack Developer
       image: "/images/users/user-2.png"
-    - name: Ortrin Okaster
-      field: Software Engineer
-      image: "/images/users/user-3.png"
-    - name: Eleanor Pena
-      field: Co-founder & COO
-      image: "/images/users/user-1.png"
-    - name: Bukiakta Bansalo
-      field: Product Manager
+    - name: Devi Antari
+      field: CMO 
       image: "/images/users/user-2.png"
-    - name: Ortrin Okaster
-      field: Software Engineer
-      image: "/images/users/user-3.png"
 ---
-Donec sollicitudin molestie malesda. Donec sollitudin molestie malesuada. Mauris pellentesque nec, egestas non nisi. Cras ultricies ligula sed magna dictum porta. Lorem
+Agara Teknologi adalah perusahaan teknologi terdepan yang mengkhususkan diri dalam pengembangan aplikasi web dan mobile.
