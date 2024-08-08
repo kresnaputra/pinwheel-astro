@@ -4,38 +4,96 @@ excerpt: Donec sollicitudin molestie malesda. Donec sollitudin molestie male <br
 draft: false
 ---
 
-### 1. Definitions
+### 1. Introduction
 
-We collect certain identifying personal data when you sign up to our Service such as your name, email address, PayPal address (if different from email address), and telephone number. The personal data we collect from you is disclosed only in accordance with our Terms of Service and/or this Privacy Policy.Conclude collects Slack account and access information from Users for the purposes of connecting to the Slack API and to authenticate access to information on the Conclude website. Whenever you visit our Site, we may collect non-identifying information from you, such as referring URL, browser, operating system, cookie information, and Internet Service Provider. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, this information alone cannot usually be used to identify you.The term "personal data" does not include any anonymized and aggregated data made on the basis of personal data, which are wholly owned by Conclude.
+Welcome to Hadir! These Terms and Conditions govern your use of our mobile application, designed for employee attendance management. By using our app, you agree to these terms. If you do not agree, please do not use our app.
 
 ### 2. General Terms
 
-#### Service Provided AS IS
+#### Account Creation
 
-The Service is provided for free during this pilot project, and is provided "as is" with no warranty. Conclude will provide User support for the Service, however; Conclude is not committed to any level of service or availability of the Service. A further description of the Service and our user support is available at the Site.
+Users must create an account by providing their name.
 
-#### Interoperation with Slack
+#### Age Restriction
 
-The Service interoperates with Slack.com, and depends on the continuing availability and access to Slack. If for any reason Conclude cannot access or use Slack (including without limitation, change in terms or increase in fees charged by Slack), Conclude may not be able to provide all of the functions of its Service. No refund or credit, if applicable, will be provided for temporary unavailability of Slack (for example, maintenance windows).
+Users must be at least 16 years old to use the app.
 
-#### Company Liability
+### 3. User Content
 
-If you enter into this agreement on behalf of a company, you hereby agree that the company is responsible under this Agreement for all actions and omissions conducted by its designated users of the Service.
+#### Content Submission
 
-### 4. Rules of Use
+Users can submit content, such as uploading a doctor's prescription for sick leave.
 
-1. must keep passwords secure and confidential;
-2. are solely responsible for User Data and all activity in their account while using the Service;
-3. must use commercially reasonable efforts to prevent unauthorized access to their account, and notify Conclude promptly of any such unauthorized access; and
-4. may use the Service only in accordance with Conclude's online user guide and all applicable laws and regulations.
+#### Guidelines
 
-#### You must not
+There are no specific guidelines or restrictions on the content users can submit.
 
-- Enhance or improve User experience, our Site, or our Service.
-- Process transactions.
-- Send emails about our Site or respond to inquiries.
-- As this Privacy Policy and our Terms of Service.
+### 4. Data Collection and Privacy
 
-### 5. Intellectual Property Rights
+#### Personal Data
 
-Your information may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction. If you choose to provide information to us, Conclude transfers Personal Information to Google Cloud Platform and processes it there. Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
+We collect users' names and profile photos.
+
+#### Usage
+
+This data is used solely for attendance purposes.
+
+#### Protection
+
+We protect your data using Cloudflare services. For more details, please refer to our Privacy Policy.
+
+### 5. Payments and Refunds
+
+#### Paid Features
+
+Our app does not offer any paid features or in-app purchases.
+
+#### Refund Policy
+
+Since there are no paid features, we do not have a refund policy.
+
+### 6. Usage Rules
+
+There are no specific rules users must follow while using our app.
+
+### 7. Account Suspension or Termination
+
+No actions will lead to the suspension or termination of an account.
+
+### 8. Third-Party Services
+
+Our app integrates with third-party services or APIs. By using our app, you agree to comply with the terms of service of these third-party services.
+
+### 9. Advertisements
+
+Our app does not display any third-party advertisements.
+
+### 10. Intellectual Property
+
+#### Ownership
+
+We do not own all content and materials provided in the app.
+
+#### User Rights
+
+Users do not retain ownership of the content they submit.
+
+### 11. Limitations of Liability
+
+We do not include any limitations of liability in these terms and conditions.
+
+### 12. Dispute Resolution
+
+We do not have a specific procedure for handling disputes or claims arising from the use of the app.
+
+### 13. Modifications to Terms and Conditions
+
+We do not plan to modify these terms and conditions in the future.
+
+### 14. Contact Information
+
+If you have any questions or issues, you can contact us at office@agara.id.
+
+### 15. Governing Law
+
+These terms and conditions are governed by and construed in accordance with the laws of Indonesia. By using Hadir!, you agree to these terms and conditions. If you have any questions or concerns, please contact us at office@agara.id.

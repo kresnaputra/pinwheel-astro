@@ -1,37 +1,37 @@
 ---
 title: Features
 banner:
-  title: Connects with all your other tools to create a smooth experience.
-  content: Donec sollicitudin molestie malesda. Donec sollitudin molestie malesuada. Mauris pellentesque nec, egestas non nisi. Cras ultricies ligula sed magna dictum porta.
+  title: Fitur yang penting sudah tercover penuh oleh Hadir!
+  content: Hadir diciptakan dengan tujuan untuk menyederhanakan proses manajemen kehadiran dan operasi perusahaan lainnya.
   image: "/images/features-banner-img.png"
   button:
     label: Download The Theme
     link: "https://themefisher.com/astro-themes/pinwheel-astro"
     enable: true
 project_management:
-  title: Build collaborative workspaces <br /> for your team
-  content: Donec sollicitudin molestie malesda. Donec sollitudin molestie malesuada. <br /> Mauris pellentesque nec, egestas non nisi. Cras ultricies .
+  title: Beberapa fitur yang sudah disediakan
+  content: 
 
   management:
     title: Project Management
     projects:
-      - title: Reduce friction
-        content: Encourage frequent & timely recognition integrating with communication tools
+      - title: Absensi Berdasarkan Lokasi
+        content: Karyawan dapat mencatat kehadiran mereka hanya saat berada di dalam area kantor yang ditentukan
         icon: lock  #icon package react-feather-icon [https://feathericons.com/]
-      - title: Reduce friction
-        content: Encourage frequent & timely recognition integrating with communication tools
+      - title: Manajemen Cuti
+        content: Aplikasi ini menyediakan antarmuka yang mudah digunakan untuk mengajukan cuti berbayar atau cuti sakit
         icon: tv  #icon package react-feather-icon [https://feathericons.com/]
-      - title: Reduce friction
-        content: Encourage frequent & timely recognition integrating with communication tools
+      - title: Riwayat Absensi
+        content: Karyawan dapat melihat riwayat absensi mereka secara rinci, termasuk tanggal dan waktu, untuk memantau ketepatan waktu dan catatan cuti.
         icon: tool  #icon package react-feather-icon [https://feathericons.com/]
-      - title: Reduce friction
-        content: Encourage frequent & timely recognition integrating with communication tools
+      - title: Login Aman
+        content: Karyawan masuk menggunakan ID unik yang diberikan oleh admin, memastikan akses yang aman ke data absensi mereka.
         icon: lock  #icon package react-feather-icon [https://feathericons.com/]
-      - title: Reduce friction
-        content: Encourage frequent & timely recognition integrating with communication tools
+      - title: Manajemen Karyawan
+        content: Panel ini memungkinkan penambahan dan pengelolaan profil karyawan dengan lancar, memastikan pencatatan yang akurat
         icon: tv  #icon package react-feather-icon [https://feathericons.com/]
-      - title: Reduce friction
-        content: Encourage frequent & timely recognition integrating with communication tools
+      - title: Pemrosesan Penggajian
+        content: Panel ini dilengkapi dengan modul penggajian untuk memproses dan mendistribusikan gaji karyawan.
         icon: tool  #icon package react-feather-icon [https://feathericons.com/]
   feature_service:
     title: Accept payments from devices any country in this universe
