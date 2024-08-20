@@ -21,7 +21,7 @@
       "url": "/how-it-works"
     },
     {
-      "name": "Pages",
+      "name": "Other",
       "url": "",
       "hasChildren": true,
       "children": [
@@ -38,10 +38,6 @@
           "url": "/privacy-policy"
         }
       ]
-    },
-    {
-      "name": "Contact",
-      "url": "/contact"
     }
   ],
 
@@ -49,18 +45,6 @@
     {
       "name": "About",
       "url": "/about"
-    },
-    {
-      "name": "Contact",
-      "url": "/contact"
-    },
-    {
-      "name": "Elements",
-      "url": "/elements"
-    },
-    {
-      "name": "Changelog",
-      "url": "/changelog"
     }
   ]
 }

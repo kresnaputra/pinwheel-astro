@@ -58,10 +58,10 @@ members:
   description: 
   member_list:
     - name: Kresna Putra
-      field: CEO / Full-Stack Developer
+      field: Software Developer
       image: "/images/users/kresna.jpg"
     - name: Pradipta Wistika
-      field: CTO / Full-Stack Developer
+      field: Software Developer
       image: "/images/users/dipta.jpg"
 ---
 Agara Teknologi adalah perusahaan teknologi terdepan yang mengkhususkan diri dalam pengembangan aplikasi web dan mobile.

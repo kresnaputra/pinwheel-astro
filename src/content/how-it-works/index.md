@@ -38,14 +38,14 @@ our_works:
       - 2. Karyawan dapat melakukan absensi sesuai dengan lokasi yang didaftarkan
       - 3. Karyawan wajib melakukan absensi pulang jika waktu kerja sudah selesai
   - title: Mengajukan Cuti dan Sakit.
-    image: "/images/how-it-work/image-3.png"
+    image: "/images/how-it-work/image-4.png"
     list:
       - 1. Karyawan dapat mengajukan cuti dan sakit
       - 2. Saat mengajukan cuti karyawan harus memilih hari cuti terlebih dahulu
       - 3. Saat mengajukan ijin sakit karyawan harus memilih hari serta mengirim surat dokter
       - 4. Pengajuan akan diperiksa oleh HR
   - title: Menerima Pengajuan.
-    image: "/images/how-it-work/image-3.png"
+    image: "/images/how-it-work/image-5.png"
     list:
       - 1. HR terlebih dahulu memeriksa Dashboard apakah ada pengajuan atau tidak
       - 2. HR dapat melihat karyawan yang sedang mengajukan cuti atau ijin sakit

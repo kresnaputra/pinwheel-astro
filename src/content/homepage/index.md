@@ -40,13 +40,13 @@ service:
           image: "/images/collaboration.png"
         - title: Persetujuan Cuti
           icon: "triangle"  #icon package react-feather-icon [https://feathericons.com/]
-          image: "/images/sells-by-country.png"
+          image: "/images/paid-leave.png"
         - title: Manajemen Pengumuman
           icon: "bell"  #icon package react-feather-icon [https://feathericons.com/]
-          image: "/images/sells-by-country.png"
+          image: "/images/announcement.png"
         - title: Pemrosesan Penggajian
           icon: "book"  #icon package react-feather-icon [https://feathericons.com/]
-          image: "/images/sells-by-country.png"
+          image: "/images/salary.png"
 
   our_service:
     - title: Manfaat  
@@ -56,15 +56,15 @@ service:
         - Menghandle beberapa lokasi kerja sekaligus
         - Fleksibel dan dapat disesuaikan
         - Sistem dengan pengelolaan terpusat
-    - title: Tunggu apa lagi?
-      description: Pesan sekarang dan rasakan manfaatnya. Dengan Hadir! kelola perushaan anda dengan sistem yang terjamin serta aman digunakan.
-      video:
-        thumbnail: "/images/intro-thumbnail.png"
-        video_id: "g3-VxLQO7do"
-      button:
-        label: Tentang Kami
-        link: "#"
-        enable: true
+    # - title: Tunggu apa lagi?
+    #   description: Pesan sekarang dan rasakan manfaatnya. Dengan Hadir! kelola perushaan anda dengan sistem yang terjamin serta aman digunakan.
+    #   video:
+    #     thumbnail: "/images/intro-thumbnail.png"
+    #     video_id: "g3-VxLQO7do"
+    #   button:
+    #     label: Tentang Kami
+    #     link: "#"
+    #     enable: true
 
 #testimonial
 testimonial:
