@@ -1,7 +1,7 @@
 {
   "site": {
     "title": "Hadir!",
-    "base_url": "https://pinwheel-astro.vercel.app",
+    "base_url": "https://hadir.agara.id",
     "base_path": "/",
     "trailing_slash": false,
     "favicon": "/images/favicon.ico",
