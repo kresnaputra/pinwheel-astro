@@ -5,28 +5,24 @@
       "url": "/"
     },
     {
-      "name": "About",
+      "name": "Tentang Kami",
       "url": "/about"
     },
     {
-      "name": "Blog",
-      "url": "/blog"
-    },
-    {
-      "name": "Features",
+      "name": "Fitur",
       "url": "/features"
     },
     {
-      "name": "How It Works",
+      "name": "Cara Kerja",
       "url": "/how-it-works"
     },
     {
-      "name": "Other",
+      "name": "Lainnya",
       "url": "",
       "hasChildren": true,
       "children": [
         {
-          "name": "Pricing",
+          "name": "Harga",
           "url": "/pricing"
         },
         {

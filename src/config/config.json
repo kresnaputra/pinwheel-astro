@@ -1,14 +1,14 @@
 {
   "site": {
-    "title": "Pinwheel Astro",
+    "title": "Hadir!",
     "base_url": "https://pinwheel-astro.vercel.app",
     "base_path": "/",
     "trailing_slash": false,
-    "favicon": "/images/favicon.png",
+    "favicon": "/images/favicon.ico",
     "logo": "/images/logo.png",
     "logo_width": "147",
     "logo_height": "31",
-    "logo_text": "Pinwheel"
+    "logo_text": "Hadir!"
   },
 
   "settings": {
@@ -33,17 +33,17 @@
   },
 
   "params": {
-    "footer_description": "Lorem ipsum dolor sit sed dmi amet, consectetur adipiscing. Cdo tellus, sed condimentum volutpat.",
-    "email": "info@andromeda.io",
+    "footer_description": "Hadir diciptakan dengan tujuan untuk menyederhanakan proses manajemen kehadiran dan operasi perusahaan lainnya.",
+    "email": "office@agara.id",
     "location": "2118 Thornridge Cir. Syracuse, Connecticut 35624",
-    "phone": "+704-555-0127",
+    "phone": "+6285176929958",
     "contact_form_action": "#",
     "copyright": "Copyright © 2023 a theme by [Themefisher](https://themefisher.com)"
   },
 
   "metadata": {
-    "meta_author": "Themefisher",
-    "meta_image": "/images/og-image.png",
-    "meta_description": "pinwheel astro"
+    "meta_author": "Agara",
+    "meta_image": "/images/logo.png",
+    "meta_description": "Hadir!"
   }
 }
