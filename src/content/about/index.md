@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "Tentang Kami"
 page_title: "Tentang Kami"
 buttons:
   - label: Download The Theme

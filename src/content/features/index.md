@@ -1,5 +1,5 @@
 ---
-title: Features
+title: Fitur
 banner:
   title: Fitur yang penting sudah tercover penuh oleh Hadir!
   content: Hadir diciptakan dengan tujuan untuk menyederhanakan proses manajemen kehadiran dan operasi perusahaan lainnya.
