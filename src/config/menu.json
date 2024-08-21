@@ -17,14 +17,14 @@
       "url": "/how-it-works"
     },
     {
+      "name": "Harga",
+      "url": "/pricing"
+    },
+    {
       "name": "Lainnya",
       "url": "",
       "hasChildren": true,
       "children": [
-        {
-          "name": "Harga",
-          "url": "/pricing"
-        },
         {
           "name": "Terms And Conditions",
           "url": "/terms-and-conditions"
