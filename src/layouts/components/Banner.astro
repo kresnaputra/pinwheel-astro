@@ -13,6 +13,12 @@ const { title, button, image, content } = banner;
 
         <p class="mt-6" set:html={markdownify(content)} />
 
+        <div class="mt-5">
+          <a href="../../../public/pdf/Proposal.pdf" download >
+            <p class="btn btn-primary">Download Brosur</p>
+          </a>
+        </div>
+
         <div class="mt-5 flex flex-row space-x-4 items-center">
           <a
             href="https://play.google.com/store/apps/details?id=com.agara.hadir"
@@ -24,9 +30,7 @@ const { title, button, image, content } = banner;
               height={100}
             />
           </a>
-          <a
-            href="https://apps.apple.com/us/app/hadir/id6566194497"
-          >
+          <a href="https://apps.apple.com/us/app/hadir/id6566194497">
             <Image
               alt="android"
               src="/images/ios.png"

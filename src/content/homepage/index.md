@@ -1,7 +1,7 @@
 ---
 banner:
   title: "Kehadiran Praktis, Efisien, Akurat dengan Hadir!"
-  content: "Hadir diciptakan dengan tujuan untuk menyederhanakan proses manajemen kehadiran dan operasi perusahaan lainnya."
+  content: "Hadir! diciptakan dengan tujuan untuk menyederhanakan proses manajemen kehadiran dan operasi perusahaan lainnya."
   image: /images/banner-img.png
   button:
     label: Download The Theme
