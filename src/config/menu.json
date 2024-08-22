@@ -5,6 +5,10 @@
       "url": "/"
     },
     {
+      "name": "Blog",
+      "url": "/blog"
+    },
+    {
       "name": "Tentang Kami",
       "url": "/about"
     },
@@ -20,6 +24,7 @@
       "name": "Harga",
       "url": "/pricing"
     },
+
     {
       "name": "Lainnya",
       "url": "",

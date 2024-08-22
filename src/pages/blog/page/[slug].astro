@@ -32,7 +32,7 @@ const blogIndex = (await getEntryBySlug<any, string>(
 const { slug } = Astro.params;
 const posts = await getSinglePage(config.settings.blog_folder);
 const sortedPosts = sortByDate(posts);
-const recentPost = sortedPosts.filter((item) => !item.data.featured);
+const recentPost = sortedPosts
 const totalPages = Math.ceil(recentPost.length / config.settings.pagination);
 const currentPage = slug && !isNaN(Number(slug)) ? Number(slug) : 1;
 const indexOfLastPost = currentPage * config.settings.pagination;
@@ -58,7 +58,7 @@ const page_data = {
   </section>
   <section class="section">
     <div class="container">
-      <h2 class="h4 mb-4">Recent Posts</h2>
+      <!-- <h2 class="h4 mb-4">Recent Posts</h2> -->
       <Blogs posts={currentPosts} />
       <Pagination
         section={config.settings.blog_folder}

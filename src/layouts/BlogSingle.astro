@@ -47,7 +47,7 @@ const { Content } = await post.render();
               <FaRegClock className={"mr-2 -mt-1 inline-block"} />
               {readingTime(post.body)}
             </li>
-            <li class="mr-4 inline-block">
+            <!-- <li class="mr-4 inline-block">
               <FaRegFolder className={"mr-2 -mt-1 inline-block"} />
               {
                 post.data.categories.map((category: string, index: number) => (
@@ -60,14 +60,14 @@ const { Content } = await post.render();
                   </a>
                 ))
               }
-            </li>
+            </li> -->
           </ul>
         </div>
 
         <div class="content">
           <Content />
         </div>
-        <Disqus client:load />
+        <!-- <Disqus client:load /> -->
       </div>
     </div>
   </div>

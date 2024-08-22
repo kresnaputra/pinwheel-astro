@@ -23,7 +23,7 @@ const posts = await getSinglePage(blog_folder);
 const categories = await getTaxonomy(config.settings.blog_folder, "categories");
 const sortedPosts = sortByDate(posts);
 const featuredPost = sortedPosts.filter((item) => item.data.featured);
-const recentPost = sortedPosts.filter((item) => !item.data.featured);
+const recentPost = sortedPosts
 const totalPages = Math.ceil(recentPost.length / config.settings.pagination);
 const currentPosts = recentPost.slice(0, config.settings.pagination);
 ---
@@ -42,9 +42,9 @@ const currentPosts = recentPost.slice(0, config.settings.pagination);
   </section>
   <section class="section">
     <div class="container">
-      <FeaturedBlog posts={featuredPost} />
-      <BlogCategories categories={categories} />
-      <h2 class="h4 mb-4">Recent Posts</h2>
+      <!-- <FeaturedBlog posts={featuredPost} /> -->
+      <!-- <BlogCategories categories={categories} /> -->
+      <!-- <h2 class="h4 mb-4">Recent Posts</h2> -->
       <Blogs posts={currentPosts} />
       <Pagination
         section={blog_folder}
@@ -53,5 +53,5 @@ const currentPosts = recentPost.slice(0, config.settings.pagination);
       />
     </div>
   </section>
-  <Cta />
+  <!-- <Cta /> -->
 </Base>
