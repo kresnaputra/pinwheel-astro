@@ -11,15 +11,26 @@ const { title, button, image, content } = banner;
       <div class="lg:col-6">
         <h1 class="banner-title" set:html={markdownify(title)} />
 
-        <p class="mt-6" set:html={markdownify(content)} />
+        <p class="mt-6 mb-2" set:html={markdownify(content)} />
+        <a href="/brochure.pdf" download>
+          <p class="text-primary font-bold">Download Brosur</p>
+        </a>
 
-        <div class="mt-5">
-          <a href="/brochure.pdf" download >
-            <p class="btn btn-primary">Download Brosur</p>
+        <div class="mt-5 border-t-2 pt-5 mb-5">
+          <a href="https://wa.me/+6285176929958">
+            <p class="btn btn-primary">Coba Gratis Sekarang!</p>
           </a>
         </div>
-
-        <div class="mt-5 flex flex-row space-x-4 items-center">
+      </div>
+      <div class="lg:col-6">
+        <Image
+          class="w-full object-contain"
+          alt="banner"
+          src={image}
+          width={603}
+          height={396}
+        />
+        <div class="mt-5 flex flex-row space-x-4 justify-center ">
           <a
             href="https://play.google.com/store/apps/details?id=com.agara.hadir"
           >
@@ -39,15 +50,6 @@ const { title, button, image, content } = banner;
             />
           </a>
         </div>
-      </div>
-      <div class="lg:col-6">
-        <Image
-          class="w-full object-contain"
-          alt="banner"
-          src={image}
-          width={603}
-          height={396}
-        />
       </div>
     </div>
   </div>
